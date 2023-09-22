@@ -24,7 +24,7 @@ main , section ,aside,nav{
 #maintop{
     max-width: 802px;
     min-height:134px ;
-    background-image: url("./bkg-nuage.jpg");
+    background-image: url("./images/bkg-nuage.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-color: #000000;
@@ -98,7 +98,7 @@ p{
 aside{
     width: 186px;
     height: 390px;
-    background-image: url('./asideimage1.jpg');
+    background-image: url('./images/asideimage1.jpg');
     background-repeat: no-repeat;
 }
 #list{
