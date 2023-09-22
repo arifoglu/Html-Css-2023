@@ -110,7 +110,7 @@ label:hover{
 #chapeau {
     width: 796px;
     height: 321px;
-    background-image: url('/maquet-fullpage/images/browser_background1.png');
+    background-image: url('./images/browser_background1.png');
     background-repeat: no-repeat;
     border: 0.1px groove;
     opacity: 0.8;
@@ -171,7 +171,7 @@ background-color: #a7a197;
     margin: 0;
     width: 796px;
     height: 443px;
-    background-image: url("/maquet-fullpage/images/corpsbackground.png");
+    background-image: url("./images/corpsbackground.png");
     background-repeat: no-repeat;
     border: 0.1px groove;
     opacity: 0.6;
