@@ -78,7 +78,7 @@ a:hover {
 #container {
     width: 1000px;
     height: 651px;
-    background-image: url('./images/backgroundbluemaquet.jpg');
+    background-image: url('images/backgroundbluemaquet.jpg');
     background-repeat: no-repeat;
     display: flex;
 }
